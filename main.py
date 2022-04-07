@@ -11,6 +11,7 @@ display = pygame.display.set_mode((display_width, display_height))
 pygame.display.set_caption('ZOMBIE SMASHER')
 icon = pygame.image.load(r'./images/icon/head.jpg')
 pygame.display.set_icon(icon)
+
 max_score = 0
 
 
